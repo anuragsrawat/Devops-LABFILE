@@ -18,7 +18,7 @@ Using SSH, we need both public and private keys to clone repositories securely.
 #### 1. Generating SSH Key
 Run the following command to generate an SSH key:
 ```sh
-ssh-keygen -t ed25519 -C "rakshitagarg08@gmail.com"
+ssh-keygen -t ed25519 -C "Anurag2004rawat@gmail.com"
 ```
 
 Verify if the key is generated at the default location:
@@ -43,14 +43,14 @@ ssh-add ~/.ssh/id_ed25519
 
 ### Cloning Repository Using SSH
 ```sh
-git clone git@github.com:rakshita0808/Devopslabb1-h.git
+git clone git@github.com:anurag0808/Devopslabb1-h.git
 ```
 
 ---
 
 ### Cloning Repository Using HTTP
 ```sh
-git clone https://github.com/rakshita0808/Devopslabb1-h.git
+git clone https://github.com/anurag0808/Devopslabb1-h.git
 ```
 
 If authentication is required, Git will prompt for your credentials.
