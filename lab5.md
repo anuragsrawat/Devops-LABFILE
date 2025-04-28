@@ -11,14 +11,14 @@
 
 **1. Creating the Main HTTP Repository**
 ```
-git clone "https://github.com/rakshita0808/Devopslabb1-h.git"
+git clone "https://github.com/anurag0808/Devopslabb1-h.git"
 ```
 **2. Create basic HTML, CSS And JS files and add them to the respective repository**
 
 **3. Adding Submodules**
 ```
-    git submodule add "https://github.com/rakshita0808/Demo-CSS.git"
-    git submodule add "https://github.com/rakshita0808/Demo-JS.git"
+    git submodule add "https://github.com/anurag0808/Demo-CSS.git"
+    git submodule add "https://github.com/anurag0808/Demo-JS.git"
 ```
 
 **4. Pushing the Submodules**
