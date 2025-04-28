@@ -22,7 +22,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"Name": "Rakshita", "Location": "Faridabad"}
+    return {"Name": "Anurag", "Location": "Ddoon"}
 
 @app.get("/{data}")
 def read_data(data: str):
